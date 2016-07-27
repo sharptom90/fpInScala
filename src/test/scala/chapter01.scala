@@ -5,6 +5,7 @@ import org.scalatest.{FunSuite, Matchers}
 
 class chapter01 {
   /*This is where I will put the exercises*/
+  /*...and other examples from the book.*/
 }
 
 class chapter01tests extends FunSuite with Matchers {
